@@ -1,0 +1,2 @@
+# premium-ship-frame-001-ship-frame-keel-assembly-plann
+Stop wasting hours re-aligning frames because your assembly plan is scattered across sticky notes and spreadsheets. The Ship Frame Keel Assembly Planner brings every step—from keel alignment to frame spacing—into one Notion workspace, so you never lose track of a single bulkhead.  This template replaces disjointed checklists with a structured syste
